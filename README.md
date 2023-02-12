@@ -15,3 +15,8 @@
 - 📫 How to reach me gamewithslammed2016@gmail.com
 
 - ⚡ Fun fact I believe I have potential to do a lot in the world of front end development
+
+**Connect with me:**
+- ⚡ https://linktr.ee/slammedd
+
+**Languages and Tools:**
